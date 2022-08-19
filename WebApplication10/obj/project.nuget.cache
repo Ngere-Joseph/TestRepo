@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gm4DHvoR1VQdU17uIxbRv3A/b0sQ7CC0KzMsdUOJlmeQ5JPi+X9j7SI25w8AAliGvzMAInBxNu0DK9kIhzuKlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OLUCHI\\source\\repos\\WebApplication10\\WebApplication10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OLUCHI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
